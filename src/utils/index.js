@@ -4,7 +4,7 @@ import Done from "../assets/Done.svg";
 import InProgress from "../assets/InProgress.svg";
 import Todo from "../assets/Todo.svg";
 
-import NoPriority from "../assets/NoPriority.svg";
+import NoPriority from "../assets/Nopriority.svg";
 import LowPriority from "../assets/LowPriority.svg";
 import MediumPriority from "../assets/MediumPriority.svg";
 import HighPriority from "../assets/HighPriority.svg";
